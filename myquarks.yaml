@@ -5,7 +5,7 @@ Modality: {
         version: {
                 0.1: {
                         compat: [3.5, 3.6],
-                        fetchinfo: "v0.1"    # this is a git tag
+                        fetchInfo: "v0.1"    # this is a git tag
                 }
                 }
         }

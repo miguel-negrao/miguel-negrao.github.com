@@ -1,0 +1,13 @@
+{
+Modality: {
+        method: git,
+        uri: "git://github.com/ModalityTeam/Modality-toolkit.git",
+        version: {
+                0.1: {
+                        compat: [3.5, 3.6],
+                        fetchinfo: "v0.1"    # this is a git tag
+                }
+                }
+        }
+}
+

@@ -1,7 +1,7 @@
 {
-Modality: {
+Quarks2Test: {
         method: git,
-        uri: "git://github.com/ModalityTeam/Modality-toolkit.git",
+        uri: "https://github.com/miguel-negrao/Quarks2Test.git",
         version: {
                 0.1: {
                         compat: [3.5, 3.6],

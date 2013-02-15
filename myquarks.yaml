@@ -8,6 +8,17 @@ Quarks2Test: {
                         fetchInfo: "v0.1"    # this is a git tag
                 }
                 }
+        },
+
+FPLib: {
+        method: git,
+        uri: "https://github.com/miguel-negrao/FPLib.git",
+        version: {
+                0.1: {
+                        compat: [3.5, 3.6, 3.7],
+                        fetchInfo: "v0.1"    # this is a git tag
+                }
+                }
         }
 }
 

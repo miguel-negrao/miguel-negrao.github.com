@@ -6,6 +6,9 @@ Quarks2Test: {
                 0.1: {
                         compat: [3.5, 3.6],
                         fetchInfo: "v0.1"    # this is a git tag
+                },
+                0.2: {
+                        fetchInfo: "v0.1"    # this is a git tag
                 }
                 }
         },

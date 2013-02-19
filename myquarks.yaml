@@ -3,6 +3,7 @@ Quarks2Test: {
         method: git,
         uri: "https://github.com/miguel-negrao/Quarks2Test.git",
         compat: [3.5, 3.6, 3.7],
+        dependencies: [],
         versions: {
                 0.1: {
                         compat: [3.5, 3.6, 3.7],
@@ -18,6 +19,7 @@ FPLib: {
         method: git,
         uri: "https://github.com/miguel-negrao/FPLib.git",
         compat: [3.5, 3.6, 3.7],
+        dependencies: [],
         versions: {
                 0.1: {
                         compat: [3.5, 3.6, 3.7],

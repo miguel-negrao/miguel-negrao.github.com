@@ -19,7 +19,7 @@ FPLib: {
         method: git,
         uri: "https://github.com/miguel-negrao/FPLib.git",
         compat: [3.5, 3.6, 3.7],
-        dependencies: [],
+        dependencies: [ name: {UnitTesting} ],
         versions: {
                 0.1: {
                         compat: [3.5, 3.6, 3.7],
